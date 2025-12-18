@@ -1,0 +1,24 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+  background-color: #faf7f0; /* Grüner Hintergrund */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0; /* wichtig! */
+  padding: 0; /* wichtig! */
+  overflow: hidden;
+}
+
+.coming-soon {
+  font-size: 4rem;
+  font-weight: 400;
+  font-style: italic;
+  color: #00965e;
+  letter-spacing: 0.02em;
+}
+
+.dots {
+  color: #960038; /* Rote Punkte */
+  font-weight: 600;
+}
